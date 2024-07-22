@@ -97,6 +97,6 @@ coverage report
 <br><br>
 <img src="screenshots/image6.png" alt="swagger stats api response" />
 
-##
+## 
 
-### To open AWS Deployment Steps please follow the link ([approach.md](/weather_app/approach.md))
+### For AWS Deployment, Please follow steps in the approach.md file.
